@@ -1,4 +1,4 @@
-# REST-API-CRUD-With-Laravel-5
+# REST API CRUD With Laravel 5
 Make REST API CRUD Laravel 5 and with Package Fractal (https://github.com/spatie/laravel-fractal). 
 
 To install crud API laravel 5 :
